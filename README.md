@@ -1,6 +1,9 @@
 # TicTacToe game built using React
 
 Below is the default README from create-react-app. I built a tictaktoe game using react class components.
+![image](https://user-images.githubusercontent.com/16609581/113566780-4580bd80-9605-11eb-83a9-f99ca59583d3.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
